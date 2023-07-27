@@ -1,0 +1,15 @@
+#restaurant-info:hover h3{
+    text-decoration: underline;
+}
+
+#menu-items:hover h3 {
+    text-decoration: underline;
+}
+
+#inventory-type:hover h3 {
+    text-decoration: underline;
+}
+
+#items-category:hover h3 {
+    text-decoration: underline;
+}
